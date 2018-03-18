@@ -6,4 +6,6 @@ class Average:
            response[0]=0
        else:
            response[0]=len(elementos)
+       if len(array) == 0:
+           response[1]=None
        return response
