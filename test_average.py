@@ -34,3 +34,6 @@ class TestAverage(TestCase):
 
     def test_arratNumbers_max_2(self):
         self.assertEqual(Average().arrayNumbers("3, 323")[2], 323, "Maximo cadena 2")
+
+    def test_arratNumbers_max_n(self):
+        self.assertEqual(Average().arrayNumbers("3, 323, 232,2 ,2,2,3 ,4")[2], 323, "Maximo cadena n")
