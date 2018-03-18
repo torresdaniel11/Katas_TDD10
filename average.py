@@ -15,6 +15,7 @@ class Average:
                response[0]=0
                response[1] = None
                response[2] = None
+               response[3] = None
            else:
                response[0]=len(elementos)
                response[1] = min(elementos)
