@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="385df480-49ea-4f4d-893e-3e8bb634ed6d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/test_average.py" afterPath="$PROJECT_DIR$/test_average.py" />
+      <change beforePath="$PROJECT_DIR$/average.py" afterPath="$PROJECT_DIR$/average.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,25 +13,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Katas_TDD10$Unittests_in_test_average_py.coverage" NAME="Unittests in test_average.py Coverage Results" MODIFIED="1521352362284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Katas_TDD10$Unittests_in_test_average_py.coverage" NAME="Unittests in test_average.py Coverage Results" MODIFIED="1521352583689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Katas_TDD10$average.coverage" NAME="average Coverage Results" MODIFIED="1521346944871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="average.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="average.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/average.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="28" column="54" lean-forward="false" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+            <state relative-caret-position="270">
+              <caret line="18" column="96" lean-forward="false" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_average.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_average.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_average.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="347">
               <caret line="50" column="59" lean-forward="false" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -419,38 +419,52 @@
       <option name="project" value="LOCAL" />
       <updated>1521352342080</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Paso 36: (Rojo) Escribir prueba-&gt; Valor promedio del array con string con n elementos">
+      <created>1521352400452</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1521352400452</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Paso 37: (Verde) Escribir código-&gt; Valor promedio del array con string con n elementos">
+      <created>1521352475915</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1521352475915</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 48m 48s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 49m 47s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 49m 55s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 50m 09s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 50m 55s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 51m 08s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 51m 14s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 51m 44s.xml">
-      <configuration name="Unittests in test_average.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 52m 07s.xml">
       <configuration name="Unittests in test_average.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 52m 42s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 53m 47s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 54m 20s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 54m 54s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 55m 16s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 55m 42s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 55m 48s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 56m 10s.xml">
+      <configuration name="Unittests in test_average.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_average_py - 2018.03.18 at 00h 56m 24s.xml">
       <configuration name="Unittests in test_average.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -487,8 +501,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Paso 11: (Rojo) Escribir prueba-&gt; Mínimo valor del array con string vacio" />
-    <MESSAGE value="Paso 12: (Verde) Escribir código-&gt; Mínimo valor del array con string vacio" />
     <MESSAGE value="Paso 13: (Azul) Hacer refactoring-&gt; Mínimo valor del array con string vacio" />
     <MESSAGE value="Paso 14: (Rojo) Escribir prueba-&gt; Mínimo valor del array con string con 1 elemento" />
     <MESSAGE value="Paso 14: (Verde) Escribir código-&gt; Mínimo valor del array con string con 1 elemento" />
@@ -512,28 +524,30 @@
     <MESSAGE value="Paso 33: (Verde) Escribir código-&gt; Valor promedio del array con string con 1 elemento" />
     <MESSAGE value="Paso 34: (Rojo) Escribir prueba-&gt; Valor promedio del array con string con 2 elemento" />
     <MESSAGE value="Paso 35: (Verde) Escribir código-&gt; Valor promedio del array con string con 2 elemento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Paso 35: (Verde) Escribir código-&gt; Valor promedio del array con string con 2 elemento" />
+    <MESSAGE value="Paso 36: (Rojo) Escribir prueba-&gt; Valor promedio del array con string con n elementos" />
+    <MESSAGE value="Paso 37: (Verde) Escribir código-&gt; Valor promedio del array con string con n elementos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paso 37: (Verde) Escribir código-&gt; Valor promedio del array con string con n elementos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/average.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="28" column="54" lean-forward="false" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_average.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="347">
           <caret line="50" column="59" lean-forward="false" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/average.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="96" lean-forward="false" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
+          <folding />
         </state>
       </provider>
     </entry>
