@@ -14,6 +14,7 @@ class Average:
            if len(array) == 0:
                response[0]=0
                response[1] = None
+               response[2] = None
            else:
                response[0]=len(elementos)
                response[1] = min(elementos)
