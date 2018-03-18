@@ -22,3 +22,6 @@ class TestAverage(TestCase):
 
     def test_arratNumbers_min_2(self):
         self.assertEqual(Average().arrayNumbers("1, 434")[1], 1, "Minimo cadena 2")
+
+    def test_arratNumbers_min_n(self):
+        self.assertEqual(Average().arrayNumbers("1, 434,32,32,32,32,3,4")[1], 1, "Minimo cadena n")
