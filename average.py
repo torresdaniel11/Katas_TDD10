@@ -1,3 +1,4 @@
 class Average:
    def arrayNumbers(self, array):
-       pass
+       if len(array) == 0 :
+           return 0
