@@ -20,6 +20,8 @@ class Average:
                response[1] = int(elementos[0])
            elif len(elementos) == 2:
                response[1] = min(elementos)
+           elif len(elementos) > 2:
+               response[1] = min(elementos)
            return response
 
 
