@@ -18,6 +18,8 @@ class Average:
            else:
                response[0]=len(elementos)
                response[1] = min(elementos)
+           if len(elementos) == 1:
+               response[2] = max(elementos)
            return response
 
 
