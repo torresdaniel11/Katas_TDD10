@@ -16,3 +16,6 @@ class TestAverage(TestCase):
 
     def test_arratNumbers_min_vacio(self):
         self.assertEqual(Average().arrayNumbers("")[1], None, "Minimo cadena vacia")
+
+    def test_arratNumbers_min_1(self):
+        self.assertEqual(Average().arrayNumbers("3")[1], 3, "Minimo cadena 1")
