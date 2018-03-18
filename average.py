@@ -25,6 +25,8 @@ class Average:
                response[2] = max(elementos)
            if len(elementos) == 1:
                response[3] = Average().mean(elementos)
+           elif len(elementos) == 2:
+               response[3] = Average().mean(elementos)
            return response
 
 
