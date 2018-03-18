@@ -46,3 +46,6 @@ class TestAverage(TestCase):
 
     def test_arrayNumbers_average_2(self):
         self.assertEqual(Average().arrayNumbers("3, 9")[3], 6, "Promedio cadena 2")
+
+    def test_arrayNumbers_average_n(self):
+        self.assertEqual(Average().arrayNumbers("3, 9, 3, 9")[3], 6, "Promedio cadena 2")
