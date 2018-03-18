@@ -25,3 +25,6 @@ class TestAverage(TestCase):
 
     def test_arratNumbers_min_n(self):
         self.assertEqual(Average().arrayNumbers("1, 434,32,32,32,32,3,4")[1], 1, "Minimo cadena n")
+
+    def test_arratNumbers_max_vacio(self):
+        self.assertEqual(Average().arrayNumbers("")[2], None, "Maximo cadena vacia")
