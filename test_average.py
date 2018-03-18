@@ -28,3 +28,6 @@ class TestAverage(TestCase):
 
     def test_arratNumbers_max_vacio(self):
         self.assertEqual(Average().arrayNumbers("")[2], None, "Maximo cadena vacia")
+
+    def test_arratNumbers_max_1(self):
+        self.assertEqual(Average().arrayNumbers("3")[2], 3, "Maximo cadena 1")
