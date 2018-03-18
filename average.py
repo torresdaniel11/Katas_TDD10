@@ -27,6 +27,8 @@ class Average:
                response[3] = Average().mean(elementos)
            elif len(elementos) == 2:
                response[3] = Average().mean(elementos)
+           elif len(elementos) > 2:
+               response[3] = Average().mean(elementos)
            return response
 
 
