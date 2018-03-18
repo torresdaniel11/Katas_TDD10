@@ -7,3 +7,5 @@ class Average:
            return 1
        elif len(elementos)==2:
            return 2
+       else:
+           return len(elementos)
