@@ -8,6 +8,5 @@ class Average:
        else:
            response[0]=len(elementos)
        if len(elementos) == 1 and len(array)>0:
-           print(elementos)
            response[1] = int(elementos[0])
        return response
