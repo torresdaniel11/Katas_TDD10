@@ -10,3 +10,6 @@ class TestAverage(TestCase):
 
     def test_arrayNumbers_elementos_2(self):
         self.assertEqual(Average().arrayNumbers("233, 232"), 2 , "Elementos cadena 2")
+
+    def test_arrayNumbers_elementos_n(self):
+        self.assertEqual(Average().arrayNumbers("233, 232,23,23,2,2,2,432, 466,6"), 10 , "Elementos cadena n")
