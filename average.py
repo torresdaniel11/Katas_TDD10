@@ -22,6 +22,8 @@ class Average:
                response[2] = max(elementos)
            elif len(elementos) == 2:
                response[2] = max(elementos)
+           elif len(elementos) > 2:
+               response[2] = max(elementos)
            return response
 
 
