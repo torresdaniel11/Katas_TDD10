@@ -4,8 +4,7 @@ class Average:
        elementos = array.split(",")
        if len(array) == 0:
            response[0]=0
+           response[1] = None
        else:
            response[0]=len(elementos)
-       if len(array) == 0:
-           response[1]=None
        return response
